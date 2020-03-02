@@ -128,4 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# 忽略参考资料
 *.pdf
+*.PDF
+*.ppt
+*.docx
